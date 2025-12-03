@@ -1,0 +1,218 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "gender": "women",
+      "title": "The Gauze Button-Up",
+      "category": "Beige Houndstooth",
+      "description": "Organic Cotton, Cleaner Chemistry, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/c2213318_a21c/womens-gauze-button-up-soft-cobalt",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/c763dace_15bf/womens-gauze-button-up-soft-cobalt",
+      "price": 98
+    },
+
+    {
+      "id": "2",
+      "gender": "women",
+      "title": "The Short-Sleeve Boxy Oxford",
+      "category": "White",
+      "description": "Organic Cotton, Cleaner Chemistry",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/e8101f45_413a/womens-short-sleeve-boxy-oxford-white",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/0dbbd0df_7ffc/womens-short-sleeve-boxy-oxford-white",
+      "price": 62
+    },
+
+    {
+      "id": "3",
+      "gender": "women",
+      "title": "The Must-Have Shirt in Linen",
+      "category": "Responsible Forestry",
+      "description": "Organic Cotton, Cleaner Chemistry",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/df43caa9_4816/womens-relaxed-linen-shirt-soft-cobalt-bone",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/a84d5b29_4636/womens-relaxed-linen-shirt-soft-cobalt-bone",
+      "price": 100
+    },
+
+    {
+      "id": "4",
+      "gender": "women",
+      "title": "The Draped Top in Butterknit",
+      "category": "Black",
+      "description": "Responsible Forestry, Cleaner Chemistry, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/2726f7ee_b186/womens-cowl-neck-top-in-butterknit-black",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/8c7b17d1_17de/womens-cowl-neck-top-in-butterknit-black",
+      "price": 59
+    },
+
+    {
+      "id": "5",
+      "gender": "women",
+      "title": "The Vest in Stretch Linen",
+      "category": "Camel Houndstooth",
+      "description": "Responsible Forestry, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/9de2c48b_9f43/womens-vest-stretch-linen-deep-taupe-mini-gingham",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/2531e34a_d385/womens-vest-stretch-linen-deep-taupe-mini-gingham",
+      "price": 96
+    },
+
+    {
+      "id": "6",
+      "gender": "women",
+      "title": "The Boxy Oxford",
+      "category": "Pink",
+      "description": "Organic Cotton, Cleaner Chemistry",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/e1c4dbdb_b92b/womens-boxy-oxford-rose-quartz-chambray",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/06d6e6a0_e08a/womens-boxy-oxford-rose-quartz-chambray",
+      "price": 74
+    },
+
+    {
+      "id": "7",
+      "gender": "women",
+      "title": "The Short-Sleeve Boxy Oxford",
+      "category": "Black",
+      "description": "Organic Cotton, Cleaner Chemistry",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/1a57c9a5_324b/womens-short-sleeve-boxy-oxford-black",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/0522a2a8_4ec9/womens-short-sleeve-boxy-oxford-black",
+      "price": 57
+    },
+
+    {
+      "id": "8",
+      "gender": "women",
+      "title": "The Eyelet Camp Shirt",
+      "category": "Navy / Bone",
+      "description": "Organic Cotton",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/929057a4_245c/womens-eyelet-camp-shirt-black",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/79330971_40ca/womens-eyelet-camp-shirt-black",
+      "price": 104
+    },
+    {
+      "id": "9",
+      "gender": "men",
+      "title": "The Seersucker Resort Shirt",
+      "category": "Beige Houndstooth",
+      "description": "Organic Cotton, Cleaner Chemistry, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/150818de_abf2/mens-seersucker-resort-shirt-soft-cobalt",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/bc04b0f5_da26/mens-seersucker-resort-shirt-soft-cobalt",
+      "price": 98
+    },
+    {
+      "id": "10",
+      "gender": "men",
+      "title": "The Essential Organic Crew",
+      "category": "White",
+      "description": "Organic Cotton, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/3e8959f5_ee89/mens-essential-organic-crew-uniform-silver-lining",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/5663a89b_e97c/mens-essential-organic-crew-uniform-silver-lining",
+      "price": 38
+    },
+    {
+      "id": "11",
+      "gender": "men",
+      "title": "The Textured Resort Shirt",
+      "category": "White / Blue",
+      "description": "Organic Cotton, Cleaner Chemistry, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/b7c4d93d_673f/mens-textured-resort-shirt-bone-dblue",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/1e3b05cb_3558/mens-textured-resort-shirt-bone-dblue",
+      "price": 40
+    },
+    {
+      "id": "12",
+      "gender": "men",
+      "title": "The Essential Organic Garment-Dyed Polo",
+      "category": "Deep Navy",
+      "description": "Organic Cotton, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/4a0950e9_388a/mens-essential-organic-dyed-polo-navy",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/ea22d40b_edc6/mens-essential-organic-dyed-polo-navy",
+      "price": 78
+    },
+    {
+      "id": "13",
+      "gender": "men",
+      "title": "The Textured Resort Shirt",
+      "category": "Beige Houndstooth",
+      "description": "Organic Cotton, Cleaner Chemistry, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/bf841abf_fcf1/mens-textured-resort-shirt-cobalt-floral",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/9951178f_c2e8/mens-textured-resort-shirt-cobalt-floral",
+      "price": 98
+    },
+    {
+      "id": "14",
+      "gender": "men",
+      "title": "The Cotton Linen Pullover",
+      "category": "Deep Navy",
+      "description": "Organic Cotton, Cleaner Chemistry, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/62f5cf93_1faa/mens-cotton-linen-pullover-navy",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/7d3a2d0a_75ee/mens-cotton-linen-pullover-navy",
+      "price": 138
+    },
+    {
+      "id": "15",
+      "gender": "men",
+      "title": "The Easy Pant",
+      "category": "Trench Coat Khaki",
+      "description": "Organic Cotton, Cleaner Chemistry, Ever-Better Factory",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/82b6c761_8031/mens-easy-pant-trench-coat-khaki",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/8675c612_7b55/mens-easy-pant-trench-coat-khaki",
+      "price": 118
+    },
+    {
+      "id": "16",
+      "gender": "men",
+      "title": "The Tech Pant",
+      "category": "Beige Houndstooth",
+      "description": "Renewed Materials, Cleaner Chemistry",
+      "image": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/364fed1b_c5ca/mens-tech-pant-kalamata",
+      "imageCloth": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto:best:sensitive,dpr_2.0,f_auto/i/13086c95_8002/mens-tech-pant-kalamata",
+      "price": 128
+    }
+  ],
+  "everworld": [
+    {
+      "id": "1",
+      "title": "The July Cleaner Fashion Edit",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2Fe1bb21e72a0341328b3aeee85c06de8f?format=webp&width=2000"
+    },
+    {
+      "id": "2",
+      "title": "In Color",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2F20846c388f6c45bd8b4fea713748d716?format=webp&width=2000"
+    },
+    {
+      "id": "3",
+      "title": "In Your Bag",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2F77ab6d39569a45a49c1517411b44e983?format=webp&width=2000"
+    },
+    {
+      "id": "4",
+      "title": "Carry On, Sir",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2F34549ccb0c7a489195258094524bc8a9?format=webp&width=2000"
+    },
+    {
+      "id": "5",
+      "title": "5 Versatile Pieces to Pack for Your Next Trip",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2F50e0116c33e14b5a8a22961806b86423?format=webp&width=2000"
+    },
+    {
+      "id": "6",
+      "title": "Cleaner Denim Starts Here",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2Fc7368d0e402a4671806c31f531b96d43?format=webp&width=2000"
+    },
+    {
+      "id": "7",
+      "title": "Ready for Summer",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2F6fd2dc4fc00f4949b87a16775437151d?format=webp&width=2000"
+    },
+    {
+      "id": "8",
+      "title": "Other Than Pants",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2Fe77c934dc71a446f866897b6e9559992?format=webp&width=2000"
+    },
+    {
+      "id": "9",
+      "title": "Special Occasion",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F444142b2cae54a19aeb8b5ba245feffe%2F99d2297672d540d3aba416243b50e266?format=webp&width=2000"
+    }
+  ]
+}
